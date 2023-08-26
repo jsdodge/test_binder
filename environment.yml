@@ -5,5 +5,5 @@ dependencies:
   - notebook
   - numpy
   # - python
-  # - scipy
+  - scipy
   
