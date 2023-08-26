@@ -1,2 +1,12 @@
+name: pydata
+channels:
+  - conda-forge
 dependencies:
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - notebook
+  - numpy
+  - python
   - scipy
+  
