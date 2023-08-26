@@ -4,6 +4,6 @@ dependencies:
   - matplotlib
   - notebook
   - numpy
-  - python
+  - python=3.10
   - scipy
   
